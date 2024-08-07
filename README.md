@@ -1,7 +1,7 @@
-# Payroll System
+# PayMaster-Pro
 
 ## Overview
-The Payroll System project is a Java program designed to calculate the payroll for employees based on their hours worked, hourly pay rate, and tax withholding rates. The program prompts the user for necessary input and then calculates the gross pay, federal and state tax withholdings, total deductions, and net pay for the employee.
+The PayMaster-Pro project is a Java program designed to calculate the payroll for employees based on their hours worked, hourly pay rate, and tax withholding rates. The program prompts the user for necessary input and then calculates the gross pay, federal and state tax withholdings, total deductions, and net pay for the employee.
 
 ## Features
 - **User Input**: Prompts the user to input employee details including hours worked, hourly pay rate, and tax withholding rates.
