@@ -17,15 +17,6 @@ The Payroll System project is a Java program designed to calculate the payroll f
 - Payroll Calculation Algorithms
 - Basic Arithmetic Operations
 
-## Getting Started
-To run this project, clone the repository and compile the Java files using a Java Development Kit (JDK). Execute the `Payroll.java` to perform payroll calculations.
-
-### Running the Program
-```sh
-git clone https://github.com/yourusername/PayrollSystem.git
-cd PayrollSystem
-javac com/mycompany/payroll/Payroll.java
-java com.mycompany.payroll.Payroll
 
 
 
